@@ -1,0 +1,6 @@
+@CrazyMusiciansApi_HostAddress = http://localhost:5092
+
+GET {{CrazyMusiciansApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
